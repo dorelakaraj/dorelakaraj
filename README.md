@@ -17,7 +17,7 @@
 <br>
 <b>🔥 Github Streaks</b>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dkaraj&show_icons=true&theme=jolly&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dorelakaraj&show_icons=true&theme=jolly&count_private=true"/>
 </p>
 
 

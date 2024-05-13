@@ -4,7 +4,7 @@
 
 
 <a href="https://dkwebsolutions.medium.com" rel="nofollow"><img src="https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" data-canonical- style="max-width: 100%;"></a>
-<a href="https://twitter.com/dorelakaraj" rel="nofollow"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdorelakaraj" alt="Twitter Badge" data-canonical- style="max-width: 100%;"></a>
+<a href="https://twitter.com/dorelakaraj" rel="nofollow"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" data-canonical- style="max-width: 100%;"></a>
 
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
